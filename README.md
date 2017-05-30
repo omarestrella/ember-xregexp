@@ -1,26 +1,20 @@
 # ember-xregexp
 
-This README outlines the details of collaborating on this Ember addon.
+[![Build Status](https://travis-ci.org/omarestrella/ember-xregexp.svg?branch=master)](https://travis-ci.org/omarestrella/ember-xregexp)
+![Ember Versions](https://embadge.io/v1/badge.svg?start=1.13.0)
 
-## Installation
+Provides a module to use in Ember applications
 
-* `git clone <repository-url>` this repository
-* `cd ember-xregexp`
-* `npm install`
+## Usage
 
-## Running
+First install the addon:
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+`ember install ember-xregexp`
 
-## Running Tests
+Then you can import XRegExp:
 
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+`import XRegExp from 'xregexp/xregexp';`
 
-## Building
+## Documentation
 
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+See [XRegExp API docs](http://xregexp.com/api/) for more information on its usage.
