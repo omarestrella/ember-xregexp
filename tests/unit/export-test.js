@@ -1,5 +1,5 @@
 import { test, module } from 'qunit';
-import XRegExp from 'xregexp/xregexp';
+import XRegExp from 'xregexp';
 
 module('Unit | export xregexp');
 

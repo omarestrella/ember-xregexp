@@ -13,7 +13,7 @@ First install the addon:
 
 Then you can import XRegExp:
 
-`import XRegExp from 'xregexp/xregexp';`
+`import XRegExp from 'xregexp';`
 
 ## Documentation
 

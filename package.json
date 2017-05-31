@@ -1,17 +1,18 @@
 {
   "name": "ember-xregexp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "xregexp"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Omar Estrella",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/omarestrella/ember-xregexp",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
